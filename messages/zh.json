@@ -1,0 +1,91 @@
+{
+  "menu": {
+    "privacyPolicy": "隐私政策",
+    "termsOfUse": "使用条款",
+    "copyright": "© {year} SubwaySurfersUnblocked.org 版权所有"
+  },
+  "Home": {
+    "Metadata": {
+      "title": "地铁跑酷解锁版 - 在线畅玩 Subway Surfers Unblocked",
+      "description": "在 SubwaySurfersUnblocked.org 免费在线玩地铁跑酷（Subway Surfers）。无需下载，打开浏览器即可开始您的冒险之旅。",
+      "keywords": ["地铁跑酷", "Subway Surfers", "在线游戏", "免费游戏", "无限制"]
+    },
+    "schemaData": {
+      "name": "地铁跑酷解锁版",
+      "description": "在线免费畅玩地铁跑酷（Subway Surfers），无需下载，突破限制。",
+      "genre": ["动作", "冒险", "跑酷"],
+      "language": "zh"
+    },
+    "hero": {
+      "title": "地铁跑酷解锁版",
+      "subtitle": "在线免费畅玩 Subway Surfers Unblocked",
+      "startButton": "开始游戏"
+    },
+    "whyChooseUs": {
+      "title": "为什么选择我们的 Subway Surfers Unblocked？",
+      "reasons": [
+        "即时游戏：无需下载，直接在浏览器中畅玩",
+        "完全免费：无需付费，无隐藏收费",
+        "跨平台支持：适用于电脑、平板和手机（因为部分手机浏览器的显示问题，可能需要使用电脑浏览器）",
+        "定期更新：与官方版本同步，及时更新最新内容",
+        "无限制：突破地域和网络限制，随时随地享受地铁跑酷的乐趣"
+      ]
+    },
+    "gameGuide": {
+      "title": "游戏操作指南",
+      "instructions": [
+        "左右滑动：切换跑道，躲避障碍物",
+        "向上滑动：跳跃，越过障碍物或登上列车",
+        "向下滑动：滚动，钻过低矮障碍物",
+        "双击向上滑动：激活喷气背包，短暂飞行"
+      ]
+    },
+    "gameTips": {
+      "title": "游戏技巧和策略",
+      "tips": [
+        "优先收集金币倍数道具，可以快速增加得分",
+        "尽可能完成每日任务，获取额外奖励",
+        "合理使用道具，如磁铁可以吸引金币，滑板可以暂时无敌",
+        "练习在列车顶部和侧面奔跑，可以避开大部分障碍物",
+        "挑战自己，尝试不同的角色和滑板组合"
+      ]
+    },
+    "gameScreen": "游戏截图",
+    "callToAction": {
+      "title": "准备好开始你的冒险了吗？",
+      "button": "立即开始游戏"
+    }
+  },
+  "TermsOfUse": {
+    "metaData": {
+      "title": "使用条款",
+      "description": "Subway Surfers Unblocked 使用条款。了解使用我们游戏的规则和条件。"
+    },
+    "title": "使用条款",
+    "acceptanceTitle": "接受条款",
+    "acceptanceContent": "使用 Subway Surfers Unblocked 即表示您同意遵守这些条款。如果您不同意这些条款，请不要使用我们的游戏。",
+    "userBehaviorTitle": "用户行为",
+    "userBehaviorContent": "您同意不会使用我们的游戏进行任何非法或未经授权的目的。您必须尊重其他用户并遵守所有适用法律。",
+    "disclaimerTitle": "免责声明",
+    "disclaimerContent": "Subway Surfers Unblocked 按'原样'提供，不提供任何明示或暗示的保证。我们不对任何直接、间接、附带、特殊或后果性损害负责。",
+    "modificationTitle": "条款修改",
+    "modificationContent": "我们保留随时修改这些条款的权利。继续使用游戏将视为接受修改后的条款。"
+  },
+  "PrivacyPolicy": {
+    "title": "隐私政策",
+    "informationCollectionTitle": "信息收集",
+    "informationCollectionContent": "我们不收集用户的任何个人信息。您可以匿名使用我们的服务，无需提供任何个人数据。",
+    "userAccountTitle": "用户账户",
+    "userAccountContent": "我们的服务不需要用户登录或创建账户。您可以直接访问和使用我们的游戏，无需注册。",
+    "dataSecurityTitle": "数据安全",
+    "dataSecurityContent": "由于我们不收集用户信息，您的隐私自然得到了最大程度的保护。",
+    "cookieUsageTitle": "Cookie 使用",
+    "cookieUsageContent": "我们可能使用必要的 cookie 来确保网站的基本功能。这些 cookie 不会存储任何个人信息。",
+    "policyUpdateTitle": "政策更新",
+    "policyUpdateContent": "我们可能会不时更新此隐私政策。建议您定期查看此页面以了解最新信息。",
+    "metaData":{
+      "title": "隐私政策 | Subway Surfers Unblocked",
+      "description": "Subway Surfers Unblocked 的隐私政策。了解我们如何保护您的隐私和个人信息。"
+    }
+  }
+}

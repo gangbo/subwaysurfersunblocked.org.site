@@ -1,0 +1,91 @@
+{
+  "menu": {
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfUse": "Termos de Uso",
+    "copyright": "© {year} SubwaySurfersUnblocked.org Todos os Direitos Reservados"
+  },
+  "Home": {
+    "Metadata": {
+      "title": "Subway Surfers Desbloqueado - Jogue Online Gratuitamente",
+      "description": "Jogue Subway Surfers gratuitamente online em SubwaySurfersUnblocked.org. Sem necessidade de download, comece sua aventura diretamente no seu navegador!",
+      "keywords": ["Subway Surfers", "jogo online", "jogo grátis", "desbloqueado"]
+    },
+    "schemaData": {
+      "name": "Subway Surfers Desbloqueado",
+      "description": "Jogue Subway Surfers online gratuitamente, sem necessidade de download, acesso ilimitado.",
+      "genre": ["Ação", "Aventura", "Corrida Infinita"],
+      "language": "pt"
+    },
+    "hero": {
+      "title": "Subway Surfers Desbloqueado",
+      "subtitle": "Jogue Subway Surfers Online Gratuitamente",
+      "startButton": "Iniciar Jogo"
+    },
+    "whyChooseUs": {
+      "title": "Por que escolher nosso Subway Surfers Desbloqueado?",
+      "reasons": [
+        "Jogo Instantâneo: Sem necessidade de download, jogue diretamente no seu navegador",
+        "Totalmente Grátis: Sem taxas, sem cobranças ocultas",
+        "Suporte Multiplataforma: Funciona em computadores, tablets e celulares (Devido a problemas de exibição com alguns navegadores móveis, um navegador de desktop pode ser necessário)",
+        "Atualizações Regulares: Sincronizado com versões oficiais, conteúdo mais recente adicionado prontamente",
+        "Acesso Ilimitado: Supere restrições regionais e de rede, desfrute do Subway Surfers a qualquer hora, em qualquer lugar"
+      ]
+    },
+    "gameGuide": {
+      "title": "Guia de Controles do Jogo",
+      "instructions": [
+        "Deslize para Esquerda/Direita: Troque de pista, evite obstáculos",
+        "Deslize para Cima: Pule sobre obstáculos ou sobre trens",
+        "Deslize para Baixo: Role sob obstáculos baixos",
+        "Deslize para Cima Duas Vezes: Ative o jetpack para voo temporário"
+      ]
+    },
+    "gameTips": {
+      "title": "Dicas e Estratégias do Jogo",
+      "tips": [
+        "Priorize coletar power-ups multiplicadores de moedas para aumentar rapidamente sua pontuação",
+        "Tente completar missões diárias para recompensas extras",
+        "Use power-ups sabiamente, como ímãs para atrair moedas e hoverboards para invencibilidade temporária",
+        "Pratique correr no topo e nas laterais dos trens para evitar a maioria dos obstáculos",
+        "Desafie-se tentando diferentes combinações de personagens e hoverboards"
+      ]
+    },
+    "gameScreen": "Capturas de Tela do Jogo",
+    "callToAction": {
+      "title": "Pronto para Começar Sua Aventura?",
+      "button": "Jogar Agora"
+    }
+  },
+  "TermsOfUse": {
+    "metaData": {
+      "title": "Termos de Uso",
+      "description": "Termos de Uso para Subway Surfers Desbloqueado. Entenda as regras e condições para usar nosso jogo."
+    },
+    "title": "Termos de Uso",
+    "acceptanceTitle": "Aceitação dos Termos",
+    "acceptanceContent": "Ao usar o Subway Surfers Desbloqueado, você concorda em cumprir estes termos. Se você não concordar com estes termos, por favor, não use nosso jogo.",
+    "userBehaviorTitle": "Comportamento do Usuário",
+    "userBehaviorContent": "Você concorda em não usar nosso jogo para quaisquer propósitos ilegais ou não autorizados. Você deve respeitar outros usuários e cumprir todas as leis aplicáveis.",
+    "disclaimerTitle": "Isenção de Responsabilidade",
+    "disclaimerContent": "O Subway Surfers Desbloqueado é fornecido 'como está' sem quaisquer garantias expressas ou implícitas. Não somos responsáveis por quaisquer danos diretos, indiretos, incidentais, especiais ou consequenciais.",
+    "modificationTitle": "Modificação dos Termos",
+    "modificationContent": "Reservamo-nos o direito de modificar estes termos a qualquer momento. O uso contínuo do jogo será considerado aceitação dos termos modificados."
+  },
+  "PrivacyPolicy": {
+    "title": "Política de Privacidade",
+    "informationCollectionTitle": "Coleta de Informações",
+    "informationCollectionContent": "Não coletamos nenhuma informação pessoal dos usuários. Você pode usar nossos serviços anonimamente sem fornecer quaisquer dados pessoais.",
+    "userAccountTitle": "Contas de Usuário",
+    "userAccountContent": "Nossos serviços não requerem login de usuário ou criação de conta. Você pode acessar e usar nosso jogo diretamente sem registro.",
+    "dataSecurityTitle": "Segurança de Dados",
+    "dataSecurityContent": "Como não coletamos informações do usuário, sua privacidade é naturalmente protegida ao máximo.",
+    "cookieUsageTitle": "Uso de Cookies",
+    "cookieUsageContent": "Podemos usar cookies necessários para garantir a funcionalidade básica do site. Esses cookies não armazenam nenhuma informação pessoal.",
+    "policyUpdateTitle": "Atualizações da Política",
+    "policyUpdateContent": "Podemos atualizar esta política de privacidade de tempos em tempos. Recomendamos que você revise regularmente esta página para obter as informações mais recentes.",
+    "metaData":{
+      "title": "Política de Privacidade | Subway Surfers Desbloqueado",
+      "description": "Política de Privacidade para Subway Surfers Desbloqueado. Saiba como protegemos sua privacidade e informações pessoais."
+    }
+  }
+}

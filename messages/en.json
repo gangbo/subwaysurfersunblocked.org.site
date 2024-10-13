@@ -1,0 +1,91 @@
+{
+  "menu": {
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use",
+    "copyright": "© {year} SubwaySurfersUnblocked.org All Rights Reserved"
+  },
+  "Home": {
+    "Metadata": {
+      "title": "Subway Surfers Unblocked - Play Online for Free",
+      "description": "Play Subway Surfers for free online at SubwaySurfersUnblocked.org. No download required, start your adventure right in your browser!",
+      "keywords": ["Subway Surfers", "online game", "free game", "unblocked"]
+    },
+    "schemaData": {
+      "name": "Subway Surfers Unblocked",
+      "description": "Play Subway Surfers online for free, no download required, unlimited access.",
+      "genre": ["Action", "Adventure", "Endless Runner"],
+      "language": "en"
+    },
+    "hero": {
+      "title": "Subway Surfers Unblocked",
+      "subtitle": "Play Subway Surfers Online for Free",
+      "startButton": "Start Game"
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Our Subway Surfers Unblocked?",
+      "reasons": [
+        "Instant Play: No download required, play directly in your browser",
+        "Completely Free: No fees, no hidden charges",
+        "Cross-platform support: Compatible with computers, tablets, and smartphones (Due to display issues with some mobile browsers, a desktop browser may be required)",
+        "Regular Updates: Synced with official versions, latest content added promptly",
+        "Unlimited Access: Break through regional and network restrictions, enjoy Subway Surfers anytime, anywhere"
+      ]
+    },
+    "gameGuide": {
+      "title": "Game Controls Guide",
+      "instructions": [
+        "Swipe Left/Right: Switch lanes, avoid obstacles",
+        "Swipe Up: Jump over obstacles or onto trains",
+        "Swipe Down: Roll under low obstacles",
+        "Double Swipe Up: Activate jetpack for temporary flight"
+      ]
+    },
+    "gameTips": {
+      "title": "Game Tips and Strategies",
+      "tips": [
+        "Prioritize collecting coin multiplier power-ups to quickly increase your score",
+        "Try to complete daily missions for extra rewards",
+        "Use power-ups wisely, like magnets to attract coins and hoverboards for temporary invincibility",
+        "Practice running on top and sides of trains to avoid most obstacles",
+        "Challenge yourself by trying different character and hoverboard combinations"
+      ]
+    },
+    "gameScreen": "Game Screenshots",
+    "callToAction": {
+      "title": "Ready to Start Your Adventure?",
+      "button": "Play Now"
+    }
+  },
+  "TermsOfUse": {
+    "metaData": {
+      "title": "Terms of Use",
+      "description": "Terms of Use for Subway Surfers Unblocked. Understand the rules and conditions for using our game."
+    },
+    "title": "Terms of Use",
+    "acceptanceTitle": "Acceptance of Terms",
+    "acceptanceContent": "By using Subway Surfers Unblocked, you agree to comply with these terms. If you do not agree with these terms, please do not use our game.",
+    "userBehaviorTitle": "User Behavior",
+    "userBehaviorContent": "You agree not to use our game for any illegal or unauthorized purposes. You must respect other users and comply with all applicable laws.",
+    "disclaimerTitle": "Disclaimer",
+    "disclaimerContent": "Subway Surfers Unblocked is provided 'as is' without any express or implied warranties. We are not liable for any direct, indirect, incidental, special, or consequential damages.",
+    "modificationTitle": "Modification of Terms",
+    "modificationContent": "We reserve the right to modify these terms at any time. Continued use of the game will be considered acceptance of the modified terms."
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "informationCollectionTitle": "Information Collection",
+    "informationCollectionContent": "We do not collect any personal information from users. You can use our services anonymously without providing any personal data.",
+    "userAccountTitle": "User Accounts",
+    "userAccountContent": "Our services do not require user login or account creation. You can directly access and use our game without registration.",
+    "dataSecurityTitle": "Data Security",
+    "dataSecurityContent": "As we do not collect user information, your privacy is naturally protected to the maximum extent.",
+    "cookieUsageTitle": "Cookie Usage",
+    "cookieUsageContent": "We may use necessary cookies to ensure basic website functionality. These cookies do not store any personal information.",
+    "policyUpdateTitle": "Policy Updates",
+    "policyUpdateContent": "We may update this privacy policy from time to time. We recommend that you regularly review this page for the latest information.",
+    "metaData":{
+      "title": "Privacy Policy | Subway Surfers Unblocked",
+      "description": "Privacy Policy for Subway Surfers Unblocked. Learn how we protect your privacy and personal information."
+    }
+  }
+}
